@@ -1,0 +1,44 @@
+main{
+    margin: 5px;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.image-header-content {
+    width: 50px;
+}
+.nav{
+    width: 20%;
+}
+.nav-content {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.nav-item {
+    text-decoration: none;
+    color: black;
+}
+
+.hobbies-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.hobbies-content img{
+    width: 500px;
+    height: 350px;
+}
+
+.footer{
+    width: 100%;
+    background: black;
+    color: white;
+}
+.footer-content{
+    margin: 10px;
+}
